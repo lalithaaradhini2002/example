@@ -1,1 +1,1 @@
-print("nandi vardhan")
+print("nandi vardhan is intelligent")
